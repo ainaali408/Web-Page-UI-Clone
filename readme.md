@@ -9,6 +9,6 @@ In this project user has to create the clone of the given below image. The proje
 - HTML
 - CSS
 
-### Expected Output
+Deploy Link:https://web-page-ui-clone-one.vercel.app/
 
 ![output image](output/webPageOutput.png)
